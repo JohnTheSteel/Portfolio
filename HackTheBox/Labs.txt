@@ -1,0 +1,11 @@
+MEOW
+Virtual Machine 
+terminal 
+openVPN
+ping
+nmap
+telnet 
+root
+connect to target ip  --> telnet target_IP 
+login: root 
+cat flag.txt -> b40abdfe23665f766f9c61ecba8a4c19
