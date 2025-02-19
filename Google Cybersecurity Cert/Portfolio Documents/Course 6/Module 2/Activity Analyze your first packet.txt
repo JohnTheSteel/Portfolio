@@ -1,0 +1,19 @@
+Pierwsza analiza pakietów za pomocą WireShaark
+
+Zapoznanie się z filtrami i czytanie ich wyników
+
+Użyte filtry :
+ip.addr ==             --> IP
+ip.src ==         --> IP wyjściowe 
+ip.dst ==          --> IP docelowe
+eth.addr ==       -->  Adres MAC 
+udp.port ==       --> konkretny port protokolu UDP 
+tcp.port ==       --> konkretny port protokulu TCP 
+tcp contains "curl" -> pakiety zawierające w zapytaniu komende 'curl' 
+
+Odczytałem takie informacje jak:
+- docelowy adres IP 
+- długosc naglowka 
+- dlugosc ramki 
+- wartosc "Time to live"
+etc.
