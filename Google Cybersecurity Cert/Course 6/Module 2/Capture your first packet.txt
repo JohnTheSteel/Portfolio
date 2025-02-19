@@ -1,0 +1,17 @@
+Activity: Capture your first packet
+Introduction
+In this lab activity, you'll capture and analyze live network traffic using tcpdump. You'll use Linux commands in the Bash shell to complete these steps.
+
+Disclaimer: For optimal performance and compatibility, it is recommended to use either Google Chrome or Mozilla Firefox browsers while accessing the labs.
+
+What you’ll do
+You have multiple tasks in this lab:
+
+Identify available network interfaces
+
+Use tcpdump to capture live network traffic
+
+Save network traffic to a packet capture file
+
+Filter the packet capture data 
+=======================================================================
