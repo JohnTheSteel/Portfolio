@@ -1,12 +1,12 @@
 # Portfolio
 
-Hej! Dobrze Cie tu widzieć :)
+Hey! Great to see you here :)
 
-Oto moje portfolio, w którym będę dokumentował moje postępy w nauce, wkład w projekty, zdobywane doświadczenie i certyfikaty.
-Postaram się, aby wszystko było dosyć klarowne i czytelne. 
+This is my portfolio, where I will document my progress in learning, contributions to projects, acquired experience and certifications.
+I will do my best to make everything clear and readable.
 
-Mam nadzieję, że pomoże to Tobie w zorientowaniu się w tym, co aktualnie potrafię :)
+I hope this will help you get a sense of what I can currently do :)
 
-Widzisz, że coś tu "nie gra"? Napisz do mnie, chętnie skorzystam z pomocy. 
+See something that doesn't look right? Reach out to me, I'd be happy to get some help.
 
-Miłego!
+Have a nice day!
