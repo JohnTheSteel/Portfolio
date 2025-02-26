@@ -1,11 +1,11 @@
-## Lista narzędzi i technologii które znam
+# Lista narzędzi i technologii które znam
 
 
-# ParrotOS
+### ParrotOS
 
-# Nmap 
+### Nmap 
 
-# WireShark
-# tcpdump 
+### WireShark
+### tcpdump 
 
-#BurpSuite
+### BurpSuite
