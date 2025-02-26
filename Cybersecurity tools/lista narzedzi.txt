@@ -1,6 +1,0 @@
-nMap 
-Process Explorer 
-tcpdump 
-wireshark 
-VirutalBox 
-Parrot OS 
