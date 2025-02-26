@@ -5,14 +5,15 @@
 - WireShark
 - tcpdump 
 
-### Testing 
+### Testowanie
 - BurpSite 
 - Jira 
 - TestRail 
 - TestLink
 
-### General good? 
+### Generalnie przydatne
 - SQL (MariaDB, MySQL, PHPmyAdmin) 
 - Windows 10/11 
 - Parrot OS
+- Bash
 
