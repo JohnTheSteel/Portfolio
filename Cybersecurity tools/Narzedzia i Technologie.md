@@ -1,11 +1,18 @@
 # Lista narzędzi i technologii które znam
 
+### CyberSec
+Nmap 
+WireShark
+tcpdump 
 
-### ParrotOS
+### Testing 
+BurpSite 
+Jira 
+TestRail 
+TestLink
 
-### Nmap 
+### General good? 
+SQL (MariaDB,MySQL,PHPmyAdmin) 
+Windows 10/11 
+Parrot OS
 
-### WireShark
-### tcpdump 
-
-### BurpSuite
