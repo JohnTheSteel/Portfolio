@@ -4,7 +4,13 @@
 - Nmap 
 - WireShark
 - tcpdump
-- Suricata
+- Suricata (Mam praktyczne doświadczenie w używaniu Suricaty do:
+
+tworzenia własnych reguł i uruchamiania ich w Suricacie,
+
+monitorowania ruchu sieciowego zarejestrowanego w pliku z przechwyconymi pakietami,
+
+analizowania wyników zapisanych w plikach fast.logi eve.json.")
 
 ### Testowanie
 - BurpSite 
