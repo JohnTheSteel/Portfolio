@@ -24,3 +24,4 @@ analizowania wyników zapisanych w plikach fast.logi eve.json.")
 - Parrot OS
 - Bash
 
+Może zrobić to wszystko w Notion???
