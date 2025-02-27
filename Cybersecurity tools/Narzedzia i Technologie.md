@@ -1,4 +1,4 @@
-# Lista narzędzi i technologii które znam [https://www.youtube.com/watch?v=tvoqFBVSShA&ab_channel=OISF-Suricata]
+# Lista narzędzi i technologii które znam
 
 ### CyberSec
 - Nmap 
