@@ -1,12 +1,10 @@
 # Portfolio
 
-Hey! Great to see you here :)
+Cześć! Miło Cię tu widzieć
 
-This is my portfolio, where I will document my progress in learning, contributions to projects, acquired experience and certifications.
-I will do my best to make everything clear and readable.
+To repozytorium jest moim portfolio, w którym będę dokumentować swoje postępy w nauce,
+poznane narzędzia, zdobyte doświadczenie i certyfikaty.
 
-I hope this will help you get a sense of what I can currently do :)
+Mam nadzieję, że pomoże Ci to zorientować się, co obecnie potrafię.
 
-See something that doesn't look right? Reach out to me, I'd be happy to get some help.
-
-Have a nice day!
+Do siego
